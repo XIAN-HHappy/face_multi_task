@@ -36,5 +36,5 @@
 
 ## 联系方式 （Contact）
 * 知识星球
-![gs](doc/zsxq.jpg)  
+<img src="doc/zsxq.jpg" width="50%" alt="知识星球">
 * E-mails: 305141918@qq.com
